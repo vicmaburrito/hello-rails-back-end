@@ -61,7 +61,7 @@
 <details>
 <summary>Frontend</summary>
   <ul>
-    <li><a href="https://github.com/vicmaburrito/hello-react-front-end">PostgreSQL</a></li>
+    <li><a href="https://github.com/vicmaburrito/hello-react-front-end">Frontend</a></li>
   </ul>
 </details>
 
